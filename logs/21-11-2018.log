@@ -1,0 +1,4 @@
+[13: 00: 39] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/graph/get_chart_logistic HTTP/1.1 [status]: 200 [response-time]: 46.127 ms [client]: PostmanRuntime/7.4.0
+[13: 00: 39] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/graph/get_tab_chart HTTP/1.1 [status]: 200 [response-time]: 24.970 ms [client]: PostmanRuntime/7.4.0
+[13: 00: 39] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/graph/get_chart_frequency HTTP/1.1 [status]: 200 [response-time]: 78.693 ms [client]: PostmanRuntime/7.4.0
+[13: 00: 39] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/graph/get_chart_deliver HTTP/1.1 [status]: 200 [response-time]: 69.252 ms [client]: PostmanRuntime/7.4.0

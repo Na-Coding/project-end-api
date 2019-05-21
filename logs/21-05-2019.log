@@ -1,0 +1,8 @@
+[04: 03: 39] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/user_login HTTP/1.1 [status]: 404 [response-time]: 2.051 ms [client]: PostmanRuntime/7.13.0
+[04: 03: 39] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 120.416 ms [client]: PostmanRuntime/7.13.0
+[04: 03: 39] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/user/get_user HTTP/1.1 [status]: 200 [response-time]: 0.815 ms [client]: PostmanRuntime/7.13.0
+[04: 03: 39] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 105.027 ms [client]: PostmanRuntime/7.13.0
+[04: 03: 39] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 91.315 ms [client]: PostmanRuntime/7.13.0
+[04: 03: 39] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/user/get_user HTTP/1.1 [status]: 200 [response-time]: 0.415 ms [client]: PostmanRuntime/7.13.0
+[04: 03: 39] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/user/get_user HTTP/1.1 [status]: 200 [response-time]: 9.196 ms [client]: PostmanRuntime/7.13.0
+[06: 08: 45] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 494.596 ms [client]: PostmanRuntime/7.13.0
